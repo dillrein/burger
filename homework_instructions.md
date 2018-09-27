@@ -28,21 +28,21 @@ Be sure to utilize the [MYSQL Heroku Deployment Guide](../../Supplemental/MySQLH
 
 #### App Setup
 
-1. Create a GitHub repo called `burger` and clone it to your computer.
+* 1. Create a GitHub repo called `burger` and clone it to your computer.
 
-2. Make a package.json file by running `npm init` from the command line.
+* 2. Make a package.json file by running `npm init` from the command line.
 
-3. Install the Express npm package: `npm install express`.
+* 3. Install the Express npm package: `npm install express`.
 
-4. Create a server.js file.
+* 4. Create a server.js file.
 
-5. Install the Handlebars npm package: `npm install express-handlebars`.
+* 5. Install the Handlebars npm package: `npm install express-handlebars`.
 
-6. Install the body-parser npm package: `npm install body-parser`.
+* 6. Install the body-parser npm package: `npm install body-parser`.
 
-7. Install MySQL npm package: `npm install mysql`.
+* 7. Install MySQL npm package: `npm install mysql`.
 
-8. Require the following npm packages inside of the server.js file:
+* 8. Require the following npm packages inside of the server.js file:
    * express
    * body-parser
 
