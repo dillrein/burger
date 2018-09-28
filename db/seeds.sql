@@ -1,6 +1,6 @@
 INSERT INTO burgers (burger_name, devoured)
 VALUES
-    ("Cheese burger", "false")
-    ("ham burger", "false")
-    ("salad", "true"),
+    ("Cheese burger", "0")
+    ("ham burger", "0")
+    ("salad", "1"),
     
